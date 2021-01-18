@@ -15,7 +15,7 @@
 
 
 
-        <activity android:name=".recyclerviews.RecyclerActivityDesayuno">
+        <activity android:name=".mainViews.MainSignIn">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
